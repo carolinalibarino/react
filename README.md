@@ -1,3 +1,4 @@
 # react
-
-npm init react-app nomedoprojeto
+JSX - pesquisar
+npm init react-app nomedoprojeto (criar)
+npm star (rodar)
